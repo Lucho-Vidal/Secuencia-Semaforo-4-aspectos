@@ -1,4 +1,4 @@
-##Versión de secuencia 4 aspectos como la del sistema BAL. 
+## Versión de secuencia 4 aspectos como la del sistema BAL. 
 
 
 basado en el codigo del siguiente video 
